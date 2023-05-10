@@ -2,7 +2,7 @@
 > Instruções:  
 > - Você tem 24h após a disponibilização do link para entregar sua da prova.    
 > - Deverá seguir o roteiro conforme descrito e utilizar as últimas versões dos módulos disponibilizados no repositório.   
-> - Pre-requisitos para rodar o magento 2.5.6: Php 8.1 e ElasticSearch  
+> - Pre-requisitos para rodar o magento 2.4.6: Php 8.1 e ElasticSearch  
 > - ENTREGA: Disponibilizar um arquivo .zip com o código fonte da prova (se implementar tudo na pasta app, pode enviar somente ela e os arquivos do composer) e o dump do banco de dados
 
 ## Roteiro da Prova

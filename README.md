@@ -28,7 +28,7 @@
     3.4. Remover o campo de busca do header usando layout xml  
     
 #### 4. Desenvolvimento Módulo  
-    4.1. Ciar Módulo Hello Word  
+    4.1. Criar Módulo Hello Word  
         4.1.1. Criar Módulo Básico com uma rota "helloworld"  
         4.1.2. Criar arquivo de layout xml para essa rota definir um arquivo .phtml que terá apenas os dizeres "Hello Word". O bloco utilizado pode ser o padrão "Magento\Framework\View\Element\Template"  
         4.1.3. Acessar a rota e validar a exibição do texto "Hello Word" corretamente e pelo arquivo .phtml definido  

@@ -26,6 +26,11 @@
     3.2. Configurar esse novo template para a loja  
     3.3. Customizar phtml de preço adicinando parcelamento em até 12x usando o valor final do produto no calculo  
     3.4. Remover o campo de busca do header usando layout xml  
+    3.5. (DESAFIO)Fazer a customização do plugin de adição ajax de produto no carrinho "Magento_Catalog/js/catalog-add-to-cart" onde seja exibido um modal de confirmação de adição do produto no carrinho
+        3.5.1. O modal precisa exibir no titulo a confirmação de adição do produto ao carrinho
+        3.5.2. O modal precisa questionar o cliente se o mesmo deseja finalizar a compra ou continuar comprando
+        3.5.3. Exibir dois botões um para continuar comprando leva para home e o de finalizar a compra leva para o carrinho
+        3.5.4. Realizar a customização utilizando mixin para sobrepor apenas o método necessário do plugin e não todos os métodos do plugin
     
 #### 4. Desenvolvimento Módulo  
     4.1. Criar Módulo Hello Word  
